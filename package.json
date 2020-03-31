@@ -4,7 +4,7 @@
     "description": "proyecto covid19",
     "main": "app.js",
     "scripts": {
-        "start": "node server"
+        "start": "node server.js"
     },
     "keywords": [
         "covid19"
